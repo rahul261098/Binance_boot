@@ -1,0 +1,7 @@
+# ── Core dependencies ──────────────────────────────────────────
+python-binance==1.0.19       # Binance REST + WebSocket client
+python-dotenv==1.0.1         # Loads .env into os.environ
+
+# ── Dev / testing (optional) ───────────────────────────────────
+pytest==8.2.2
+pytest-mock==3.14.0
